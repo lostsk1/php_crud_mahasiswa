@@ -20,7 +20,7 @@ __program ini dibuat dengan berikut__
 
 - __1 .__ sebelum kalian mendownload source code program ini, pastikan kalian sudah membuat database dengan nama __php_crud_image__ di web server kalian masing masing
 
-- __2 .__ sebelum kalian jalankan program ini, ada baiinya kalian untuk melihat dokumentasinya terlebih dahulu di file __functions.php__ yang berada di folder __function__
+- __2 .__ sebelum kalian jalankan program ini, ada baiknya kalian untuk melihat dokumentasinya terlebih dahulu di file __functions.php__ yang berada di folder __function__
 
 
 > - © copyright by __candra dwi cahyo__ | __2020__
